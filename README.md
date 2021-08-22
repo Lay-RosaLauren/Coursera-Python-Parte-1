@@ -2,6 +2,6 @@
 
 Introdução à Ciência da Computação com Python Parte 1
 
-Seja Bem Vindo! Meu nome é Rosa Lauren B. N. de Campos e este é um repositório contendo os exercícios desenvolvidos para o curso Introdução à Ciência da Computação com Python Parte 1 by Universidade de São Paulo. Ministrado por: Fabio Kon, Professor Titular - Departamento de Ciência da Computação - IME
+Hello! Meu nome é Rosa Lauren B. N. de Campos e este é um repositório contendo os exercícios desenvolvidos para o curso Introdução à Ciência da Computação com Python Parte 1 by Universidade de São Paulo. Ministrado por: Fabio Kon, Professor Titular - Departamento de Ciência da Computação - IME
 
 
